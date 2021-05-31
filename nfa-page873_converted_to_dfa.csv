@@ -1,0 +1,8 @@
+state,0,1
+s0,s0s1,s3
+s0s1,s0s1,s1s3
+s3,s0s1s2,s1
+s1s3,s0s1s2,s1s3
+s0s1s2,s0s1,s0s1s2s3
+s1,s0,s1s3
+s0s1s2s3,s0s1s2,s0s1s2s3
